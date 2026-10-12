@@ -1,0 +1,25 @@
+RUANG MATEMATIKA — PAKET AWAL
+
+File index.html adalah prototipe website statis siap diisi dan disunting. Buka di peramban untuk melihat tampilan.
+
+CARA MENGISI TAUTAN (guru/pengelola):
+1. Buka index.html menggunakan editor teks.
+2. Cari const links={materi:"",tugas:"",uh:"",pts:"",pas:""};
+3. Isi setiap tanda kutip dengan URL tujuan, misalnya materi:"https://...".
+4. Simpan lalu uji semua tautan.
+
+ISI URL HANYA SETELAH menyiapkan file/folder Drive, kelas Classroom, atau Form yang benar serta memeriksa izin aksesnya. Jangan taruh kunci jawaban atau nilai pribadi pada halaman terbuka.
+
+PENERBITAN:
+- Situs ini berupa HTML/CSS/JavaScript statis. Unggah folder/file ini ke layanan hosting statis yang disetujui sekolah, atau minta bantuan operator/TIK sekolah.
+- Alternatif yang lebih mudah dikelola tanpa hosting: buat halaman yang sama di Google Sites, lalu sisipkan file Drive, Form, atau tautan Classroom.
+- Pada Google Sites: Insert/Sisipkan > Drive atau Forms > pilih file > Publish/Publikasikan. Tentukan siapa yang dapat melihat situs dan setiap file.
+
+ALUR SISTEM YANG DISARANKAN:
+Google Sites/website = katalog dan halaman depan.
+Google Drive = penyimpanan bahan; materi siswa sebagai Viewer/Pelihat.
+Google Classroom = tugas, pengumpulan, umpan balik, dan nilai.
+Google Forms = kuis/ulangan; gunakan pengaturan akun dan rilis nilai yang sesuai.
+
+SEBELUM DIPAKAI:
+Uji sebagai siswa; cek tampilan ponsel, semua URL, izin akses, kelas/topik, tenggat, dan aksesibilitas. Ikuti kebijakan sekolah untuk privasi dan ujian.
